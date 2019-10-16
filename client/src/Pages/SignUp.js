@@ -1,4 +1,6 @@
 import React from 'react';
+import gql from 'graphql-tag';
+import { useMutation } from 'react-apollo';
 
 const SignUp = () => {
   return (

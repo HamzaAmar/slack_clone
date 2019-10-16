@@ -1,4 +1,3 @@
-<Route path="/login" component={SignUp} />;
 import React from 'react';
 
 const ForgetPassword = () => {
